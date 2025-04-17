@@ -15,7 +15,7 @@ public class Maraicher
 
     public static void main(String[] args)
     {
-        // Ex1
+        // Ex1 salem Antho
         // Création de la HashMap équivalent au dictionnaire Python
         HashMap<String, Object> d = new HashMap<>();
 
